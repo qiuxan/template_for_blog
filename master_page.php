@@ -21,7 +21,7 @@
 		
 		<div class="showcase"><?php require($rootPath.'showcase_page.php'); ?></div>
 	</div>
-	<div class="right_content" id="right_content"><?php require($rootPath.'page_content.php'); ?></div>   
+	<div class="right_content" id="right_content"><?php require($'page_content.php'); ?></div>   
   </div>
 </body>
 </html>
